@@ -6,5 +6,7 @@ Lab1/.DS_Store
 .DS_Store
 *.xcuserstate
 Lab1/Lab1/Lab1.xcodeproj/project.xcworkspace/xcuserdata/sciencethebird.xcuserdatad/UserInterfaceState.xcuserstate
-*.xcuserstate
-*.xcuserstate
+*.xcworkspace
+*.pbxproj
+*.plist
+
