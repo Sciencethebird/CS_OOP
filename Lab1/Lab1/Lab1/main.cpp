@@ -10,6 +10,7 @@
 #include <string>
 using namespace std;
 int main() {
+    
     string buffer;
     cout << "Enter Number: ";
     while(getline(cin, buffer)){
