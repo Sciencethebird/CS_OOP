@@ -1,0 +1,9 @@
+Empty Stack
+Empty Stack
+0
+0 1 
+0 1 2 3 
+Empty Stack
+Empty Stack
+Empty Stack
+Empty Stack

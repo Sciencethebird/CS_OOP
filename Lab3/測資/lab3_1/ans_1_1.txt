@@ -1,0 +1,10 @@
+constructor
+constructor
+20
+40
+80
+6400
+constructor
+0
+9
+1
