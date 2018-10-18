@@ -1,5 +1,5 @@
 
-*.xcuserstate
+
 *.xcuserstate
 Lab1/Lab1/Lab1.xcodeproj/project.xcworkspace/xcuserdata/sciencethebird.xcuserdatad/UserInterfaceState.xcuserstate
 Lab1/.DS_Store
@@ -9,7 +9,6 @@ Lab1/Lab1/Lab1.xcodeproj/project.xcworkspace/xcuserdata/sciencethebird.xcuserdat
 *.xcworkspace
 *.pbxproj
 *.plist
-
 *.xcbkptlist
 Lab4/Stack Function Test/Stack Function Test/lab4_student/lab4_student/input
 Lab4/Stack Function Test/Stack Function Test/lab4_student/lab4_student/output
