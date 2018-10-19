@@ -1,11 +1,11 @@
 
 
 # Operating System files
- .DS_Store
+.DS_Store
  
 # Xcode files
- *.xcuserstate
- *.xcworkspace
- *.pbxproj
- *.plist
- *.xcbkptlist
+*.xcuserstate
+*.xcworkspace
+*.pbxproj
+*.plist
+*.xcbkptlist
